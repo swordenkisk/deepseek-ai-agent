@@ -18,7 +18,7 @@
 
 ```bash
 # 1. Clone repository
-git clone <your-repo-url>
+git clone https://github.com/swordenkisk/deepseek-ai-agent
 cd deepseek-ai-agent
 
 # 2. Make executable
